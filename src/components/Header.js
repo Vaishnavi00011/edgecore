@@ -37,6 +37,7 @@ return (
           <Link to="/about-us" className="hover:text-white  text-blue-950 font-bold">About Us</Link>
           <Link to="/service" className="hover:text-white  text-blue-950 font-bold">Services</Link>
           <Link to="/contactus" className="hover:text-white  text-blue-950 font-bold">Contact Us</Link>
+          <Link to="/contactus" className="hover:text-white  text-blue-950 font-bold">Contacttttttttt</Link>
         </nav>
   {/* Call to Action Button
         <Link
